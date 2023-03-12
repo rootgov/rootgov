@@ -7,3 +7,13 @@
   "twitter": "@jeremy_daly",
   "card": "summary"
 }
+{
+  "siteTitle": "*",
+  "permission": "*"
+  "url": "*",
+  "description": "*",
+  "keywords": "*",
+  "image": "*",
+  "twitter": "*",
+  "card": "*"
+}
