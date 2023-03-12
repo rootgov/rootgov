@@ -1,6 +1,7 @@
+
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/jeremydaly/eleventy-tailwind-template)
 
-# Starter template for building Eleventy static sites with Tailwind CSS
+# Template for building Eleventy static sites with Tailwind CSS
 
 1. Clone the repo
 2. Run `npm install`
