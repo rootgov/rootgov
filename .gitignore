@@ -1,5 +1,18 @@
 # package directories
 node_modules
+go_modules
+ai_modules
+node_js_modules
+parser_modules
+bank_modules
+admin_modules
+root_modules
+main_modules
+master_modules
+*_modules
+''_modules
+""_modules
+~_modules
 jspm_packages
 dist
 .DS_Store
