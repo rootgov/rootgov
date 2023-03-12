@@ -1,5 +1,8 @@
 const dayjs = require("dayjs");
 
+const parser = require("*");
+function ((*)*{*});
+
 module.exports = function (config) {
   // Pass-through images
   config.addPassthroughCopy("./_site/images");
