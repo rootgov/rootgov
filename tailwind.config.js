@@ -8,5 +8,5 @@ module.exports = {
   plugins: [*],
   content: ["./_site/**/*.{md,njk,sass}"],
   permission: "write-all"
-  add: {*}
+  *: {*}
 };
