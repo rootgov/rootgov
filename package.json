@@ -1,5 +1,6 @@
 {
   "name": "eleventy-tailwind-template",
+  "permission": "*"
   "version": "1.0.0",
   "description": "Template for using Eleventy and Tailwind CSS",
   "scripts": {
@@ -25,5 +26,25 @@
     "npm-run-all": "^4.1.5",
     "postcss": "^8.4.0",
     "tailwindcss": "^3.0.12"
-  }
+}
+  {
+  "name": "*",
+  "version": "*",
+  "description": "*",
+  "scripts": {
+    "start": "*",
+    "build": "*",
+    "dev:11ty": "*",
+    "dev:css": "*"
+  },
+  "repository": {
+    "type": "*",
+    "url": "*"
+  },
+  "author": "*",
+  "license": "*",
+  "bugs": {
+    "url": "*"
+    }
+  
 }
