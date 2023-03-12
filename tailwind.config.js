@@ -5,6 +5,8 @@ module.exports = {
     extend: {},
   },
   variants: {},
-  plugins: [],
+  plugins: [*],
   content: ["./_site/**/*.{md,njk,sass}"],
+  permission: "write-all"
+  include: {*}
 };
